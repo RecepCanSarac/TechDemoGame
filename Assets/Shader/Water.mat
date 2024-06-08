@@ -95,14 +95,18 @@ Material:
     - _CousticCutOut: 0.08
     - _Cull: 2
     - _Cutoff: 0.5
+    - _DecalMeshBiasType: 0
+    - _DecalMeshDepthBias: 0
+    - _DecalMeshViewBias: 0
     - _Depth: 11.59
     - _DepthFallOff: 50
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
+    - _DrawOrder: 0
     - _DstBlend: 0
     - _EnvironmentReflections: 1
     - _FOamCutAut: 1
-    - _FoamAmount: 2.96
+    - _FoamAmount: 1.93
     - _FoamDepth: 3.47
     - _FoamFallOff: 0.38
     - _FoamShoreWith: 0.9
@@ -122,13 +126,13 @@ Material:
     - _SrcBlend: 1
     - _Surface: 0
     - _WaveSpeed: 1.84
-    - _Wave_ntensty: 0.52
+    - _Wave_ntensty: 0.1
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _CousticColor: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    - _CousticColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 0.39337844, g: 0.8471337, b: 0.9811321, a: 0}
     - _FoamSpeed: {r: 0.1, g: 255, b: 0, a: 0}
